@@ -1,8 +1,8 @@
 #body{
     background-image: linear-gradient(pink,rgb(243, 185, 243),rgb(255, 255, 129));
 }
-#title
-{  font-size: 65px;
+.title
+{  font-size: 49px;
     font-family:'Courier New', Courier, monospace;
 }
 
@@ -14,3 +14,25 @@
     margin-left:650px;
 font-size: 20px;}
     
+
+.listhead{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+#line{
+    height: 15px;
+    background-image: linear-gradient(to right, rgb(107, 171, 255),rgb(246, 200, 113),rgb(248, 156, 248),pink);
+     
+}
+img{
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 5px;
+    border-color:   rgb(108, 182, 243);
+}
+a{
+    font-size: 30px;
+    color: cornflowerblue;
+    text-decoration: none;
+}
